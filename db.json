@@ -1,0 +1,36 @@
+{
+  "locationList": [
+    {
+      "id": "1",
+      "town": "Summerfield",
+      "state": "NC",
+      "showLocationInfo": false,
+      "currentLocation": false
+    },
+    {
+      "id": "2",
+      "town": "Raleigh",
+      "state": "NC",
+      "showLocationInfo": false,
+      "currentLocation": false
+    },
+    {
+      "town": "Denver",
+      "state": "CO",
+      "reminder": {
+        "text": "",
+        "state": ""
+      },
+      "id": 54855
+    },
+    {
+      "town": "Anchorage",
+      "state": "Ak",
+      "reminder": {
+        "text": "",
+        "state": ""
+      },
+      "id": 54856
+    }
+  ]
+}
