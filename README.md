@@ -1,4 +1,4 @@
-# vue-crash-2021
+# Vue Front End Project
 
 ## Project setup
 ```
