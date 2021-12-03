@@ -1,4 +1,4 @@
-# Vue Front End Project
+# Weather Keeper
 
 ## Project setup
 ```
