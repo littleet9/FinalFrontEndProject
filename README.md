@@ -1,5 +1,13 @@
 # Weather Keeper
 
+Ok so make sure you cd into finalfrontendproject-main. The same directory with src, public, ...etc
+Then I do 
+```
+npm install -g vue
+npm install -g @vue/cli
+npm install
+```
+
 ## Project setup
 ```
 npm install
